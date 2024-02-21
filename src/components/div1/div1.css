@@ -1,0 +1,14 @@
+
+.first1{
+    background-color:rgb(132, 132, 157);
+    box-sizing: border-box;
+    padding:15px;
+    width:560px;
+    height: 230px;
+    border-radius: 10px;
+    color:azure;
+    display:inline-flex;
+    margin: 30px;
+}
+
+
